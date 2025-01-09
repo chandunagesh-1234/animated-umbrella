@@ -1,2 +1,2 @@
 # animated-umbrella
-hello ,this is my profile
+hello, this is my profile
